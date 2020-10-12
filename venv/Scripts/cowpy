@@ -1,0 +1,5 @@
+#!C:\Users\kamil\PycharmProjects\lab12\venv\Scripts\python.exe
+# encoding: utf-8
+
+from cowpy import cow
+cow.main()
